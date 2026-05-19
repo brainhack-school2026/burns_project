@@ -1,0 +1,5 @@
+name: brainhack
+channels:
+  - defaults
+  - conda-forge
+prefix: /opt/miniconda3/envs/brainhack
